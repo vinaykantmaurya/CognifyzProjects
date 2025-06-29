@@ -4,6 +4,7 @@ public class StudentGradeCalc {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("enter the number of grades to be entered:");
+        // take no. of grades input from users
         int gradesNumber = sc.nextInt();
         System.out.println("enter the grades:");
         int i = 0;
