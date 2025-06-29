@@ -1,0 +1,22 @@
+enter the number of grades to be entered:5
+enter the grades:
+80
+70
+82
+69
+45
+The average grades of entered grade:69.2
+
+Process finished with exit code 0
+
+enter the number of grades to be entered:8
+enter the grades:
+80
+85
+86
+70
+45
+71
+64
+55
+The average grades of entered grade:69.5

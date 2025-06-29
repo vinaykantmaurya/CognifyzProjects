@@ -1,0 +1,24 @@
+Welcome To Temperature Converter
+1: Celsius to Fahrenheit
+2: Fahrenheit to Celsius
+0: Exits
+Choose an option (0, 1, or 2): 1
+Enter Temperature.
+40
+Temperature in Fahrenheit: 104.0
+******************************************
+Welcome To Temperature Converter
+1: Celsius to Fahrenheit
+2: Fahrenheit to Celsius
+0: Exits
+Choose an option (0, 1, or 2): 2
+Enter Temperature.
+108
+Temperature in Celsius: 42.22222222222222
+******************************************
+Welcome To Temperature Converter
+1: Celsius to Fahrenheit
+2: Fahrenheit to Celsius
+0: Exits
+Choose an option (0, 1, or 2): 0
+Exiting... Goodbye!
