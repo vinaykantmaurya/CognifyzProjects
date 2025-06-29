@@ -1,0 +1,26 @@
+ |   |   |
+  |   |   |
+  |   |   |
+player X enter: 0 1
+  | X |   |
+  |   |   |
+  |   |   |
+player O enter: 1 1
+  | X |   |
+  | O |   |
+  |   |   |
+player X enter: 0 2
+  | X | X |
+  | O |   |
+  |   |   |
+player O enter: 2 2
+  | X | X |
+  | O |   |
+  |   | O |
+player X enter: 0 0
+playerXhas won:
+X | X | X |
+  | O |   |
+  |   | O |
+
+Process finished with exit code 0
